@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="address">
+        <item>Nairobi</item>
+        <item>Kisumu</item>
+        <item>Mombasa</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>

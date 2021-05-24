@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950872205049",
+    "project_id": "opportunitymanagement-32d84",
+    "storage_bucket": "opportunitymanagement-32d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950872205049:android:8b735bcf49f7d35e18a428",
+        "android_client_info": {
+          "package_name": "com.opportunitymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950872205049-h9niv067ra59gngvgni8v3j8lktpmavk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQMchz0J5NzVRm8o1RxzWAD44juSoel4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950872205049-h9niv067ra59gngvgni8v3j8lktpmavk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
